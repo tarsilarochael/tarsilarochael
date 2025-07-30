@@ -1,4 +1,4 @@
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tarsilarochael&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tarsilarochael/tarsilarochael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
