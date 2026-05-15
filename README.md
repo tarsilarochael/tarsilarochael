@@ -1,6 +1,6 @@
 # Olá, eu sou a Tarsila! 👋
 
-Estudante de **Engenharia de Computação**. Atualmente focada em desenvolvimento Web com React.js.
+Estudante de **Engenharia de Computação**, atualmente focada em desenvolvimento Web com React.js.
 
 ### 🛠 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
