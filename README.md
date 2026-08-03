@@ -11,7 +11,7 @@ Estudante de **Engenharia de Computação**, atualmente focada em desenvolviment
 ---
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarsilarochael&show_icons=true&theme=dark" alt="Minhas Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tarsilarochael&show_icons=true&theme=dark" alt="Minhas Estatísticas do GitHub" />
 </p>
 
 ### 📫 Onde me encontrar
