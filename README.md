@@ -9,12 +9,10 @@ Estudante de **Engenharia de Computação**, atualmente focada em desenvolviment
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
-
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tarsilarochael/tarsilarochael/main/stats.svg" alt="Minhas Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarsilarochael&show_icons=true&theme=dark" alt="Minhas Estatísticas do GitHub" />
 </p>
-
 ---
 
 ### 📫 Onde me encontrar
