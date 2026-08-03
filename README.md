@@ -13,7 +13,6 @@ Estudante de **Engenharia de Computação**, atualmente focada em desenvolviment
 ### 📊 Estatísticas do GitHub
 <p align="left">
   <img src="stats.svg"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarsilarochael&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
