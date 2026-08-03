@@ -12,7 +12,7 @@ Estudante de **Engenharia de Computação**, atualmente focada em desenvolviment
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="./stats.svg" alt="Minhas Estatísticas do GitHub" />
+  <img src="https://raw.githubusercontent.com/tarsilarochael/tarsilarochael/main/stats.svg" alt="Minhas Estatísticas" />
 </p>
 
 ---
