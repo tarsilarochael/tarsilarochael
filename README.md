@@ -12,7 +12,7 @@ Estudante de **Engenharia de Computação**, atualmente focada em desenvolviment
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  ![Minhas Estatísticas](./stats.svg)
+  <img src="./stats.svg" alt="Minhas Estatísticas do GitHub" />
 </p>
 
 ---
