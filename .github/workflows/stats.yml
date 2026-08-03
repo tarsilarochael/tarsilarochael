@@ -12,7 +12,7 @@ jobs:
           persist-credentials: false
       - name: Generate stats SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.actor }}&show_icons=true&theme=dark" > stats.svg
+          curl -s "https://github-readme-stats-tarsilarochael.vercel.app/api?username=${{ github.actor }}&show_icons=true&theme=dark" > stats.svg
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
